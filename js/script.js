@@ -3,7 +3,8 @@
  * @type {string}
  * @description The base URL for the Firebase database.
  */
-const BASE_URL = "https://rs-testproject01-default-rtdb.europe-west1.firebasedatabase.app/";
+// const BASE_URL = "https://rs-testproject01-default-rtdb.europe-west1.firebasedatabase.app/";
+const BASE_URL = "https://join-52fbc-default-rtdb.europe-west1.firebasedatabase.app/";
 
 async function includeHTML() {
   let includeElements = document.querySelectorAll("[w3-include-html]");
